@@ -6,7 +6,7 @@ import eqonexLogo from '../../assets/eqonex-logo.svg'
 // import halfCircle1 from '../../assets/half-circle1.svg'
 import halfCircle2 from '../../assets/half-circle2.svg'
 import {BsArrowRight} from 'react-icons/bs'
-import appsmithLogo from '../../assets/appsmith-logo.svg'
+// import appsmithLogo from '../../assets/appsmith-logo.svg'
 import CaseComponent from './CaseComponent.tsx'
 
 export default function CaseStudies() {

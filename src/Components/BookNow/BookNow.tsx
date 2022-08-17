@@ -15,7 +15,7 @@ export default function BookNow() {
             <div className='w-full flex justify-center lg:justify-end relative'>
                 <img src={woman} className="md:absolute py-5 -top-24 right-20 hidden md:flex" alt="" />
             </div>
-            <img src={bookNowBg} className="w-full h-full absolute -z-10" alt="" />
+            <img src={bookNowBg} className="w-full h-full rounded-xl object-cover absolute -z-10" alt="" />
         </div>
     </section>
   )

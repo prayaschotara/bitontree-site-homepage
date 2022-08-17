@@ -6,11 +6,13 @@ import {ImLinkedin2, ImFacebook} from 'react-icons/im'
 import {BsTwitter, BsInstagram} from 'react-icons/bs'
 import './HeroSection.css'
 import socialIcons from './socialIcons.ts'
+import Ellipse1 from '../../assets/Ellipse1.tsx'
 import Button from '../Button/Button.tsx'
 
 export default function HeroSection() {
   return (
     <section className='h-screen flex flex-col-reverse md:flex-row justify-center pt-40 md:pt-0'>
+
         <div className='flex flex-col w-full mt-52 md:ml-5 lg:ml-32  md:mt-48'>
           <div className='text-section m-4 p-0'>
             <h1 className='text-5xl md:text-4xl font-InriaSans text-darkBlue font-bold'>We build awesome websites & provide solutions.</h1>

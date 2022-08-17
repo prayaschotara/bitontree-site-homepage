@@ -1,4 +1,5 @@
 import appsmithLogo from '../../assets/appsmith-logo.svg'
+import AppsmithLogo from '../../assets/AppsmithLogo'
 import appsmithImg from '../../assets/appsmith-img.png'
 import bgCircle1 from '../../assets/half-circle1.svg'
 import CircleSvg from '../../assets/CircleSvg.tsx'
